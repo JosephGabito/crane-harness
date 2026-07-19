@@ -1,9 +1,39 @@
-# Crane Harness
+<p align="center">
+  <img
+    src="resources/crane-logo.png"
+    alt="Crane Harness logo"
+    width="420"
+  >
+</p>
 
-Crane Harness is a model-independent runtime for AI agents.
+<h1 align="center">Crane Harness</h1>
 
-It owns the agent lifecycle from the first user message to the final response.
-The model is one replaceable part of that lifecycle.
+<p align="center">
+  <strong>A model-independent runtime for AI agents.</strong>
+  <br>
+  It owns the lifecycle. The model is one replaceable part.
+</p>
+
+<p align="center">
+  <a href="#requirements">
+    <img alt="Python 3.12+" src="https://img.shields.io/badge/Python-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://docs.pydantic.dev/">
+    <img alt="Pydantic 2" src="https://img.shields.io/badge/Pydantic-2-E92063?style=for-the-badge&logo=pydantic&logoColor=white">
+  </a>
+  <a href="https://react.dev/">
+    <img alt="React 19" src="https://img.shields.io/badge/React-19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  <a href="https://v2.tauri.app/">
+    <img alt="Tauri 2" src="https://img.shields.io/badge/Tauri-2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white">
+  </a>
+  <a href="LICENSE">
+    <img alt="Apache License 2.0" src="https://img.shields.io/badge/License-Apache%202.0-D22128?style=for-the-badge&logo=apache&logoColor=white">
+  </a>
+  <a href="#why-crane-harness-exists">
+    <img alt="Models optional" src="https://img.shields.io/badge/Models-Optional-F59E0B?style=for-the-badge">
+  </a>
+</p>
 
 > Crane Harness does not require an AI model to run.
 
