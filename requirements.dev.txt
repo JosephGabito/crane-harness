@@ -1,0 +1,7 @@
+-r requirements.txt
+
+black>=26.5,<27
+mypy>=2.3,<3
+pyinstaller>=6.21,<7
+pytest>=8.4,<9
+ruff>=0.15,<0.16
